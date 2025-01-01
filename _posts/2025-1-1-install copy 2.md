@@ -243,7 +243,7 @@ tags: 组装 调试
 
 注意板子的接口作用，不要接错线了
 
-![C30D功能](/assets/images/C30D功能.jpg)![C30Dtype-c](/assets/images/C30Dtype-c.jpg)![微信图片_20241202205149](/assets/images/微信图片_20241202205149.png)<img src="/assets/images/树莓派接口说明.jpg" alt="树莓派接口说明" style="zoom:33%;" />
+![C30D功能](/assets/images/C30D功能.jpg)![C30Dtype-c](/assets/images/C30Dtype-c.jpg)![微信图片_20241202205149](/assets/images/c30d板子type-c.jpg)<img src="/assets/images/树莓派接口说明.jpg" alt="树莓派接口说明" style="zoom:33%;" />
 
 把程序烧录进去之后，转动电位器改变小车模式
 
