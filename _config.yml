@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Mobile Robot # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Robot !Robot!Robot! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -48,11 +48,8 @@ social:
 webmaster_verifications:
   google: # fill in your Google verification code
   bing: # fill in your Bing verification code
-  alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
-
+ 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
@@ -195,6 +192,10 @@ defaults:
 
 sass:
   style: compressed
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 compress_html:
   clippings: all
